@@ -1,0 +1,16 @@
+rule sig_msdoc
+{
+	strings:
+		$a = "MSWordDoc"
+		$b = "Word.Document"
+	condition:
+		$a and $b
+}
+
+rule sig_msxls
+{
+	strings:
+		$a = "Microsoft Excel"
+	condition:
+		$a
+}

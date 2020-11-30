@@ -1,0 +1,7 @@
+[
+    {"type": "Atype", "extension": "a", "offset": 3, "signature": "FF F6"},
+	{"type": "Btype", "extension": "b", "offset": 0, "signature": "01 FF F8 FF F8"},
+	{"type": "Ctype", "extension": "c", "offset": 0, "signature": "01 FF F8 FF F7"},
+	{"type": "Dtype", "extension": "d", "offset": 0, "signature": "02"},
+	{"type": "jpeg/jfif", "extension": "jpg", "offset": 0, "signature": "FF D8 FF E0 xx xx 4A 46 49 46"}
+]

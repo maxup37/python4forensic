@@ -1,0 +1,6 @@
+[
+    {"type": "Atype", "extension": "a", "offset": 3, "signature": "FF F6"},
+	{"type": "Btype", "extension": "b", "offset": 0, "signature": "01 FF F8 FF F8"},
+	{"type": "Ctype", "extension": "c", "offset": 0, "signature": "01 FF F8 FF F7"},
+	{"type": "Dtype", "extension": "d", "offset": 0, "signature": "02"}
+]

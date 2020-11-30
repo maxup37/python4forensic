@@ -1,0 +1,4 @@
+[
+    {"type": "jpeg/jfif", "extension": "jpg", "offset": 0, "signature": "FF D8 FF E0 xx xx 4A 46 49 46"},
+	{"type": "jpeg/exif", "extension": "jpg", "offset": 0, "signature": "FF D8 FF E8 xx xx 45 78 69 66"}
+]

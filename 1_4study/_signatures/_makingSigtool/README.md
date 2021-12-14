@@ -17,7 +17,7 @@
 * Signature rule을 메모리로 읽어들일 때 Tree 구조를 형성하도록 한다.
 
 ## JSON file specification
-'''
+```
   [
     {
       ""type": /* file type:string, ex) "jpeg/jfif" */,
@@ -27,7 +27,7 @@
      },
      ...
   ]
-'''
+```
 
 ## Troubleshooting
 

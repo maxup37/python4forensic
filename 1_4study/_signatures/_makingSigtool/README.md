@@ -17,15 +17,15 @@
 * Signature rule을 메모리로 읽어들일 때 Tree 구조를 형성하도록 한다.
 
 ## JSON file specification
-[
-  {
-    ""type": /* file type:string, ex) "jpeg/jfif" */,
-    "extension": /* file extention:string, ex) "jpg" */,
-    "offset": /* start position:integer, ex) 0 */,
-    "signature": /* signature: hexadecimal string, ex) "FF D8 FF E0 xx xx 4A 46 49 46" */
-   },
-   ...
-]
+  [
+    {
+      ""type": /* file type:string, ex) "jpeg/jfif" */,
+      "extension": /* file extention:string, ex) "jpg" */,
+      "offset": /* start position:integer, ex) 0 */,
+      "signature": /* signature: hexadecimal string, ex) "FF D8 FF E0 xx xx 4A 46 49 46" */
+     },
+     ...
+  ]
 
 
 ## Troubleshooting
